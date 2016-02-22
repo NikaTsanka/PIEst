@@ -1,2 +1,2 @@
-# pi_est
+# PI Estimation
 Monte Carlo Simulation
